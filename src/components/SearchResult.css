@@ -1,0 +1,18 @@
+.result{
+    width: 100%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    box-shadow: opx opx 8px #ddd;
+    border-radius: 10px;
+    margin-top: 1rem;
+    max-height: 300px;
+    /* overflow-y: scroll; */
+}
+table{
+    border-style: dotted;
+}
+
+tr{
+    border-style: dotted;
+}
